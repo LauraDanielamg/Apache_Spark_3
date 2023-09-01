@@ -7,8 +7,8 @@ El repositorio está organizado en dos carpetas, una contiene los Notebooks de l
 
 Detallo más sobre el contenido específico de cada Notebook:
 
-** Ejercicio Práctico RDD's **: Este notebook contiene una intruducción básica sobre la creación y manipulación de RDD's
+**Ejercicio Práctico RDD's**: Este notebook contiene una intruducción básica sobre la creación y manipulación de RDD's
 
-** Ejercicio Práctico DataFrames - SQL **: Contiene la información básica para crear y manupular dataframes en Spark.
+**Ejercicio Práctico DataFrames - SQL**: Contiene la información básica para crear y manupular dataframes en Spark.
 
-** Ejercicio Práctico de Análitica Avanzada**: Ahonda un poco más en como utilizar las funciones de Spark y Pandas para tratar con dataframes y obtener la mayor cantidad de información de nuestros datos. 
+**Ejercicio Práctico de Análitica Avanzada**: Ahonda un poco más en como utilizar las funciones de Spark y Pandas para tratar con dataframes y obtener la mayor cantidad de información de nuestros datos. 
