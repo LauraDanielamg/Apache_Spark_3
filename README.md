@@ -3,9 +3,7 @@ Ejercicios y notas realizados durante el curso de Udemy "Big Data con Apache Spa
 
 ## Contenido
 
-El repositorio está organizado en dos carpetas, una contiene los Notebooks de los Ejercicios Requeridos y otra los datos que se han usado.
-
-Detallo más sobre el contenido específico de cada Notebook:
+El repositorio contiene una serie de Notebooks con notas sobre lo aprendido durante el curso. 
 
 **Ejercicio Práctico RDD's**: Este notebook contiene una intruducción básica sobre la creación y manipulación de RDD's
 
